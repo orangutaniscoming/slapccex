@@ -8,6 +8,6 @@ function slap() {
 
 
     setTimeout(() => {
-        target.src = "assets/bf.jpg";
+        target.src = "slap.jpg";
     }, 500);
 }
