@@ -3,7 +3,7 @@ function slap() {
 
     target.src = "assets/slap.jpg";
 
-    let slapSound = new Audio("assets/slap.mp3");
+    let slapSound = new Audio("slap.mp3");
     slapSound.play();
 
 
